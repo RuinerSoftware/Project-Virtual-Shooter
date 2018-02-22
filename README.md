@@ -1,2 +1,2 @@
 # Project-Virtual-Shooter
-This a test with source code for a VR Shooter I am making in APP GAME KIT 2
+The Prototype for my VR game is currently in Development a playable protoype will be avialable by 3-21-18
